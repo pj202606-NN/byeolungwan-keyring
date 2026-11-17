@@ -1,0 +1,42 @@
+[
+  {
+    "file": "PretendardVariable.woff2",
+    "repo": "orioncactus/pretendard",
+    "ref": "main",
+    "path": "packages/pretendard/dist/web/variable/woff2/PretendardVariable.woff2",
+    "commit": "7aeb0698819be2b4097dae8ec8fe6a795e5cf3ae",
+    "url": "https://raw.githubusercontent.com/orioncactus/pretendard/7aeb0698819be2b4097dae8ec8fe6a795e5cf3ae/packages/pretendard/dist/web/variable/woff2/PretendardVariable.woff2",
+    "bytes": 2057688,
+    "sha256": "9599f12fd42fc0bce1cd50b47a0c022e108d7aa64dd0d1bb0ed44f3282d900b4"
+  },
+  {
+    "file": "Pretendard-LICENSE.txt",
+    "repo": "orioncactus/pretendard",
+    "ref": "main",
+    "path": "LICENSE",
+    "commit": "7aeb0698819be2b4097dae8ec8fe6a795e5cf3ae",
+    "url": "https://raw.githubusercontent.com/orioncactus/pretendard/7aeb0698819be2b4097dae8ec8fe6a795e5cf3ae/LICENSE",
+    "bytes": 4816,
+    "sha256": "82e9c8a4b203261f10ddba1296422d64914ff3d4b7bd8a12896d03f0f088d70a"
+  },
+  {
+    "file": "SourceHanSerifKR-VF.otf.woff2",
+    "repo": "adobe-fonts/source-han-serif",
+    "ref": "release",
+    "path": "Variable/WOFF2/OTF/Subset/SourceHanSerifKR-VF.otf.woff2",
+    "commit": "7889f11bf31170b5d092a083b357c8c8130f89e0",
+    "url": "https://raw.githubusercontent.com/adobe-fonts/source-han-serif/7889f11bf31170b5d092a083b357c8c8130f89e0/Variable/WOFF2/OTF/Subset/SourceHanSerifKR-VF.otf.woff2",
+    "bytes": 4751636,
+    "sha256": "cd5c29b1e9fbe1374f809d2ebe46df3a0f0d33e9891407432183a7e0c03ee735"
+  },
+  {
+    "file": "SourceHanSerifKR-LICENSE.txt",
+    "repo": "adobe-fonts/source-han-serif",
+    "ref": "master",
+    "path": "LICENSE.txt",
+    "commit": "4356704ff7c68e9a84bf2bd489c9ebe186a9e2ef",
+    "url": "https://raw.githubusercontent.com/adobe-fonts/source-han-serif/4356704ff7c68e9a84bf2bd489c9ebe186a9e2ef/LICENSE.txt",
+    "bytes": 4463,
+    "sha256": "9ff5bb567e1b92c801fc1069e5fbf992ff8efccacb9db94e5959a5b3ba9bb903"
+  }
+]
